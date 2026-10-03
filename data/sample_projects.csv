@@ -1,0 +1,13 @@
+project,city,lat,lon,segment,surface,system_id,area_sqft,year,persona,is_sample
+Skyline Residency Towers,Mumbai,19.076,72.8777,New construction – residential,Basement,BAS-HS12S,42000,2025,Builder / Developer,True
+Green Acres CHS Terrace,Thane,19.2183,72.9781,Housing society / CHS redevelopment,Terrace / roof,TER-B70,8500,2025,Contractor / Applicator,True
+Sabarmati Business Park,Ahmedabad,23.0225,72.5714,Commercial & Industrial (C&I),Podium / deck,POD-P1K,26000,2024,PMC / Specifier,True
+Gandhinagar Civic Centre,Gandhinagar,23.2156,72.6369,Government / PWD / CPWD,Terrace / roof,TER-B30,15000,2025,PMC / Specifier,True
+Lakeview Public School,Pune,18.5204,73.8567,Schools & colleges,Bathroom / toilet,BTH-BT,3200,2024,Contractor / Applicator,True
+CarePlus Multispeciality Hospital,Nagpur,21.1458,79.0882,Hospitals & healthcare,Other wet areas,WET-BS,5400,2025,PMC / Specifier,True
+Coral Bay Resort,Goa,15.2993,74.124,Hotels & hospitality,Swimming pool,SP-BT,4800,2024,Builder / Developer,True
+Riverside Retaining Wall,Surat,21.1702,72.8311,Small infrastructure,Retaining wall,RW-POST-BT,6000,2025,Contractor / Applicator,True
+Indore Heights Raft,Indore,22.7196,75.8577,New construction – residential,Foundation / raft,FDN-HS15S,18000,2026,Builder / Developer,True
+Old City Heritage Facade,Jaipur,26.9124,75.7873,Repair & renovation,External wall,EW-B90,12000,2025,PMC / Specifier,True
+Metro Plaza Overhead Tank,Bhopal,23.2599,77.4126,Commercial & Industrial (C&I),Water tank,WT-C2KP-BS,2200,2024,Contractor / Applicator,True
+Vadodara Logistics Hub Joints,Vadodara,22.3072,73.1812,Commercial & Industrial (C&I),Expansion joints & cracks,JT-BT,1800,2026,Contractor / Applicator,True

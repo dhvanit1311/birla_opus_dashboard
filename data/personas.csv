@@ -1,0 +1,4 @@
+persona,icon,description,priority_sections,default_tab,welcome_line
+PMC / Specifier,:material/architecture:,"Project management consultants, architects, structural and MEP consultants who specify systems.",compliance|qa|method|spec,Method Statement,"Specification-ready systems with method statements, IS/ASTM references and QA checklists."
+Builder / Developer,:material/apartment:,"Developers and owners who need cost, warranty and timelines.",cost|warranty|timeline|references,BOQ Calculator,"See cost per sq ft, total budget, warranty years and timelines at a glance."
+Contractor / Applicator,:material/engineering:,Waterproofing contractors and applicators who execute on site.,coverage|coats|tools|curing|crack|club,Application Steps,"Coverage, coats, tools, curing times and a site-ready application sequence."

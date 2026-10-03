@@ -1,0 +1,10 @@
+segment,icon,description,modifier_type,modifier_notes
+New construction – residential,🏗️,"Fresh RCC structures – towers, villas, row houses.",prefer_hdpe,"Basement and foundation default to pre-applied HDPE (HS series) for blind-side protection."
+Repair & renovation,🛠️,"Leaking terraces, damp walls, failed old coatings.",repair_prep,"Adds 'Remove loose coating + crack treatment' prep layer. Crack check is mandatory."
+Housing society / CHS redevelopment,🏘️,"Society terraces, water tanks and external walls.",repair_prep,"Adds 'Remove loose coating + crack treatment' prep layer. Crack check is mandatory."
+Commercial & Industrial (C&I),🏭,"Offices, malls, warehouses, factories.",upgrade_tier,"Heavy traffic – the higher tier is suggested by default."
+Government / PWD / CPWD,🏛️,"Public buildings tendered to IS / CPWD specifications.",cpwd_spec,"Adds an IS-standard clause and a CPWD-style item description in the spec text."
+Schools & colleges,🎓,"Classrooms, hostels, campus terraces.",low_odour,"Low-odour, water-based options preferred. Plan work for weekends / vacations to minimise downtime."
+Hospitals & healthcare,🏥,"Wards, OTs, wet areas – live buildings.",low_odour,"Low-odour, water-based options preferred. Phase work zone-by-zone for minimal downtime."
+Hotels & hospitality,🏨,"Rooms, pools, podium landscapes, terraces.",none,"Aesthetics and guest comfort matter – plan in low-occupancy windows."
+Small infrastructure,🌉,"Parking decks, retaining structures, culverts.",upgrade_tier,"Vehicle loads and soil contact – the higher tier is suggested by default."

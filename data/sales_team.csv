@@ -1,0 +1,6 @@
+region,title,cities_covered,phone_sample,email_sample
+North,Technical Expert – North,Delhi NCR | Jaipur | Lucknow | Chandigarh,+91 90000 00001,prime.north@example.com
+South,Technical Expert – South,Bengaluru | Chennai | Hyderabad | Kochi,+91 90000 00002,prime.south@example.com
+East,Technical Expert – East,Kolkata | Bhubaneswar | Patna | Guwahati,+91 90000 00003,prime.east@example.com
+West,Technical Expert – West,Mumbai | Thane | Pune | Ahmedabad | Gandhinagar | Surat,+91 90000 00004,prime.west@example.com
+Central,Technical Expert – Central,Indore | Bhopal | Nagpur | Raipur,+91 90000 00005,prime.central@example.com

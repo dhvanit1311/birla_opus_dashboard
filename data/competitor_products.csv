@@ -1,0 +1,29 @@
+brand,product,technology,application,elongation_pct,warranty_yrs,price_sqft,standards,is_sample
+Dr. Fixit,Elastomeric roof coat (sample),Acrylic,Terrace / wall,150,5,32,ASTM D412,True
+Dr. Fixit,Fibre-reinforced roof coat (sample),Acrylic,Terrace,200,7,40,ASTM D412,True
+Dr. Fixit,2K cementitious coat (sample),Cementitious,Bathroom / tank,30,5,24,IS 2645,True
+Dr. Fixit,Premium 2K cementitious (sample),Cementitious,Tank / pool,60,7,30,EN 14891,True
+Dr. Fixit,SBS membrane (sample),Bitumen/SBS,Basement / podium,280,10,70,ASTM D1970,True
+Dr. Fixit,PU coating (sample),PU,Terrace / podium,450,10,85,ASTM C836,True
+Asian Paints SmartCare,Elastomeric terrace coat (sample),Acrylic,Terrace,120,5,30,ASTM D412,True
+Asian Paints SmartCare,Hybrid roof coat (sample),Acrylic-PU,Terrace,300,8,52,ASTM D412,True
+Asian Paints SmartCare,2K cementitious (sample),Cementitious,Bathroom,35,5,23,IS 2645,True
+Asian Paints SmartCare,Exterior WP paint (sample),Acrylic,External wall,100,6,28,IS 15489,True
+Asian Paints SmartCare,Crack filler (sample),Accessory,Cracks,—,—,8,—,True
+Fosroc,PU liquid membrane (sample),PU,Podium / terrace,500,10,95,ASTM C836,True
+Fosroc,Pre-applied HDPE (sample),HDPE,Basement / raft,600,10,125,ASTM D3767,True
+Fosroc,SBS self-adhesive (sample),Bitumen/SBS,Basement,300,10,78,ASTM D1970,True
+Fosroc,Cementitious tank coat (sample),Cementitious,Tank,70,7,34,EN 14891,True
+Fosroc,Joint sealant (sample),Accessory,Joints,—,—,18,ASTM C920,True
+Sika,Pre-applied FPO/HDPE (sample),HDPE,Basement / raft,650,15,140,ASTM D3767,True
+Sika,PU-acrylic hybrid (sample),PU,Terrace,400,10,90,EN 1504-2,True
+Sika,2K cementitious flexible (sample),Cementitious,Wet areas / pool,90,7,36,EN 14891,True
+Sika,SBS membrane (sample),Bitumen/SBS,Podium,320,10,82,EN 13707,True
+Sika,Elastomeric coat (sample),Acrylic,Wall / terrace,200,7,42,ASTM D6083,True
+Local,Acrylic WP coat (sample),Acrylic,Terrace,60,1,18,—,True
+Local,Cementitious slurry (sample),Cementitious,Bathroom,10,1,12,—,True
+Local,APP torch-on membrane (sample),Bitumen/SBS,Terrace,40,2,45,—,True
+Birla Opus Prime,B30 (sample),Acrylic,Terrace / wall,100,5,29,ASTM D412,True
+Birla Opus Prime,B90 cool roof (sample),Acrylic-PU,Terrace / wall,350,10,59,ASTM C1549,True
+Birla Opus Prime,C2K+ (sample),Cementitious,Tank / pool,80,7,33,EN 14891,True
+Birla Opus Prime,HS15S (sample),HDPE,Basement / raft,700,15,107,ASTM D3767,True

@@ -1,0 +1,13 @@
+metric,value,unit,label,is_sample
+india_wp_market_2025,10170,₹ Cr,India WP market (2025),True
+cagr_to_2035,8.1,%,CAGR to 2035,True
+prime_addressable_fy26,668,₹ Cr,Prime addressable market FY26,True
+prime_addressable_fy27,1158,₹ Cr,Prime addressable market FY27,True
+touchpoints,22,count,Stakeholder touchpoints,False
+products_benchmarked,28,count,Products benchmarked,False
+priority_skus,10,count,Priority SKUs,False
+tam,10170,₹ Cr,TAM – India WP market,True
+sam,1158,₹ Cr,SAM – Prime addressable (FY27),True
+som,60,₹ Cr,SOM – FY27 plan,True
+fy27_plan,60,₹ Cr,FY27 plan,True
+base_revenue_fy26,22,₹ Cr,Prime WP revenue FY26 (sample),True

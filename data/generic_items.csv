@@ -1,0 +1,9 @@
+item,description,unit,coverage_sqft_per_unit,pack_size,price_per_pack,colour_hex,technology,is_sample
+Surface preparation,"Remove dust, laitance, oil; wire-brush and wash; make substrate sound and SSD.",sq ft,1,1,6,#CBD5E1,Prep,True
+Remove loose coating + crack treatment,"Scrape and grind off loose/failed coatings; open and treat cracks before the system.",sq ft,1,1,12,#A8A29E,Prep,True
+Polymer crack filler (generic),Polymer-modified crack filler for hairline to fine cracks and V-grooves.,kg,40,5,900,#FDE68A,Prep,True
+Fibre mesh (generic),"Glass/polyester fibre mesh at corners, junctions, upstands and pipe outlets.",roll,500,1,1200,#FBCFE8,Reinforcement,True
+Backer rod (generic),Closed-cell PE backer rod to control sealant depth in joints.,roll,150,1,750,#BAE6FD,Joint,True
+Protection screed,Cement-sand protection screed / IPS over the waterproofing layer.,sq ft,1,1,45,#9CA3AF,Protection,True
+Protection / drainage board,HDPE dimple protection / drainage board against backfill.,sheet,21.5,1,650,#6EE7B7,Protection,True
+Tiles / finish,Tile adhesive + tiles or final floor finish (by others).,sq ft,1,1,80,#E5E7EB,Finish,True

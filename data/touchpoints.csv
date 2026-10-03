@@ -1,0 +1,23 @@
+id,stakeholder_type,name,city,lat,lon,key_insight,is_sample
+1,PMC / Specifier,PMC #1,Ahmedabad,22.9918,72.5141,Specs written as systems,True
+2,PMC / Specifier,PMC #2,Mumbai/Thane,19.1741,72.8616,Specs written as systems,True
+3,PMC / Specifier,PMC #3,Gandhinagar,23.2257,72.6185,Specs written as systems,True
+4,PMC / Specifier,PMC #4,Ahmedabad,22.9493,72.5712,Specs written as systems,True
+5,PMC / Specifier,PMC #5,Mumbai/Thane,19.076,72.9194,Specs written as systems,True
+6,PMC / Specifier,PMC #6,Gandhinagar,23.1512,72.5745,Specs written as systems,True
+7,Builder / Developer,Builder #1,Ahmedabad,23.0079,72.6223,Need one point of accountability,True
+8,Builder / Developer,Builder #2,Mumbai/Thane,19.0898,72.8857,Need one point of accountability,True
+9,Builder / Developer,Builder #3,Gandhinagar,23.2404,72.7116,Need one point of accountability,True
+10,Builder / Developer,Builder #4,Ahmedabad,23.0323,72.5535,Need one point of accountability,True
+11,Builder / Developer,Builder #5,Mumbai/Thane,19.2262,72.8575,Need one point of accountability,True
+12,Cat-A contractor,Cat-A #1,Mumbai/Thane,19.2074,72.8963,Cat-A contractors decide the brand,True
+13,Cat-A contractor,Cat-A #2,Gandhinagar,23.1631,72.5788,Cat-A contractors decide the brand,True
+14,Cat-A contractor,Cat-A #3,Ahmedabad,22.9894,72.6206,Cat-A contractors decide the brand,True
+15,Cat-A contractor,Cat-A #4,Mumbai/Thane,19.0989,72.9431,Cat-A contractors decide the brand,True
+16,Cat-A contractor,Cat-A #5,Gandhinagar,23.2422,72.6196,Cat-A contractors decide the brand,True
+17,Cat-B/C contractor,Cat-B/C #1,Gandhinagar,23.2276,72.57,Already use Opus paints – want training,True
+18,Cat-B/C contractor,Cat-B/C #2,Ahmedabad,22.9495,72.523,Already use Opus paints – want training,True
+19,Cat-B/C contractor,Cat-B/C #3,Mumbai/Thane,19.1789,72.9184,Already use Opus paints – want training,True
+20,Cat-B/C contractor,Cat-B/C #4,Gandhinagar,23.1903,72.6537,Already use Opus paints – want training,True
+21,Dealer / channel,Dealer #1,Mumbai/Thane,19.1425,72.898,Need ready BOQ & TDS,True
+22,Dealer / channel,Dealer #2,Gandhinagar,23.2671,72.6718,Need ready BOQ & TDS,True

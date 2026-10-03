@@ -1,0 +1,11 @@
+product,code,market_size,growth,gap_vs_drfixit,rd_feasibility,margin,brand_fit,make_or_buy,vendors_qualified,launch_quarter,status
+Elastomeric terrace coat,B30,9,6,5,9,7,9,Make,6,Q1 FY27,Launched
+Luxury elastomeric,B70,7,7,6,8,8,9,Make,5,Q1 FY27,Launched
+Cool-roof hybrid,B90,6,9,8,7,9,10,Make,5,Q2 FY27,Launched
+2K cementitious,C2K,9,7,4,9,6,7,Make,7,Q1 FY27,Launched
+Premium 2K cementitious,C2K+,6,7,6,8,7,7,Make,5,Q2 FY27,Launched
+SBS self-adhesive membrane,SB15,7,8,7,4,6,6,Buy,4,Q3 FY27,Vendor qualification
+Pre-applied HDPE,HS12S,5,9,8,3,7,6,Buy,3,Q3 FY27,Vendor qualification
+Weldable HDPE heavy-duty,HS15S,4,9,9,3,7,6,Buy,2,Q4 FY27,Vendor qualification
+1K PU coating,P1K,6,9,7,6,8,8,Make,4,Q3 FY27,Pilot
+Double-sided tape,DST,3,6,5,5,5,5,Buy,6,Q2 FY27,Launched

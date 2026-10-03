@@ -1,0 +1,62 @@
+surface,technology,step_no,stage,instruction,hold_time,qa_check
+All,All,1,Tools & equipment,"Wire brush, scraper, angle grinder with cup wheel",,Tools inspected and clean
+All,All,2,Tools & equipment,"Industrial vacuum / blower, water jet",,
+All,Acrylic,3,Tools & equipment,"Long-nap roller, stiff brush, airless sprayer (optional)",,
+All,Cementitious,3,Tools & equipment,"Slow-speed drill mixer (400–600 rpm), stiff nylon brush, trowel",,
+All,Bitumen/SBS,3,Tools & equipment,"Primer roller, cutter, hand roller / pressure roller, measuring tape",,
+All,HDPE,3,Tools & equipment,"Cutter, chalk line, hand roller, hot-air welder (HS15S)",,
+All,PU,3,Tools & equipment,"Slow-speed mixer, notched squeegee, short-nap roller, wet-film gauge",,
+All,All,4,Tools & equipment,"Moisture meter, crack-width gauge, measuring tape",,Crack gauge and moisture meter available
+All,All,1,Safety & PPE,"Wear safety helmet, safety shoes, nitrile gloves and safety goggles.",,PPE checked for every crew member
+All,All,2,Safety & PPE,"Use full-body harness and lifelines on terraces and facades above 2 m.",,Edge protection / lifelines in place
+All,Bitumen/SBS,3,Safety & PPE,"Solvent-based primer: no naked flames, ensure ventilation, store away from heat.",,Fire extinguisher on site
+All,PU,3,Safety & PPE,"Use organic vapour mask in closed areas; ensure cross-ventilation.",,Ventilation adequate
+All,All,4,Safety & PPE,"Keep MSDS / safety sheet on site; barricade the work zone.",,Work zone barricaded
+All,All,1,Surface preparation,"Remove dust, laitance, oil, loose mortar and old failed coatings by scraping / grinding.",,Surface sound and free of contaminants
+All,All,2,Surface preparation,"Grind sharp edges; form 25 × 25 mm cement-polymer coving at wall–floor junctions.",24 h,Coving provided at all internal corners
+All,Cementitious,3,Surface preparation,"Pre-wet the surface to saturated-surface-dry (SSD) – no standing water.",,Surface SSD at time of application
+All,Acrylic,3,Surface preparation,"Surface must be dry: moisture content below 5% (moisture meter).",,Moisture < 5% recorded
+All,PU,3,Surface preparation,"Surface must be fully dry (moisture < 4%) and primed if porous.",,Moisture < 4% recorded
+All,Bitumen/SBS,3,Surface preparation,"Surface dry, smooth and free of sharp projections that could puncture the membrane.",,No projections > 2 mm
+All,HDPE,3,Surface preparation,"Blinding / shoring face level and smooth; voids filled; no standing water.",,Blinding level and clean
+Basement,All,4,Surface preparation,"Dewater the excavation; keep groundwater below working level until backfill.",,Dewatering running
+All,All,1,Crack treatment,"Measure crack width and depth with the crack gauge; mark on drawing.",,Crack map recorded
+All,All,2,Crack treatment,"Hairline (< 0.3 mm): brush-in an extra stripe coat of the waterproofing material.",,
+All,All,3,Crack treatment,"Fine to medium (0.3–3 mm): open into 6 × 6 mm V-groove, clean and fill with polymer crack filler.",24 h,V-grooves filled flush
+All,All,4,Crack treatment,"Structural (> 3 mm) or live cracks: refer to structural engineer before waterproofing.",,Engineer sign-off for cracks > 3 mm
+All,Bitumen/SBS,1,Primer,"Apply APS1 bitumen primer by roller at ~40 sq ft/L; allow to become touch-dry.",1–2 h,Primer touch-dry and uniform
+All,Acrylic,1,Primer,"Apply a diluted first coat (1 : 1 with water) as a primer coat.",4 h,Primer coat uniform
+All,Cementitious,1,Primer,"No separate primer – SSD substrate acts as primer for cementitious coats.",,
+All,PU,1,Primer,"Apply recommended primer on porous concrete before PU (illustrative).",4–6 h,Primer coverage uniform
+All,HDPE,1,Primer,"No primer required for pre-applied HDPE.",,
+All,Acrylic,1,Application,"Stir well; apply by roller / brush in cross direction to the previous coat.",,Wet-film thickness checked
+All,Cementitious,1,Application,"Mix Part A and Part B with slow-speed mixer for 3 min to a lump-free slurry; use within 45 min.",,Pot life respected
+All,Cementitious,2,Application,"Apply first coat by stiff brush; second coat at right angles once the first is touch-dry.",,Coats at right angles; no pinholes
+All,Bitumen/SBS,1,Application,"Unroll membrane, align, peel release film and press down from centre outwards.",,No wrinkles / air pockets
+All,Bitumen/SBS,2,Application,"Provide 75 mm side laps and 100 mm end laps; roll laps firmly; seal with DST where specified.",,Laps ≥ 75/100 mm
+All,HDPE,1,Application,"Lay HDPE with membrane face towards concrete; 75 mm selvedge laps taped / welded.",,Laps sealed; no damage
+All,HDPE,2,Application,"Protect membrane from rebar chairs and foot traffic; pour concrete within 30 days.",,Membrane inspected before pour
+All,PU,1,Application,"Apply PU with squeegee / roller to the specified wet-film thickness; second coat crosswise.",,WFT ≥ specified
+All,All,1,Detailing,"Embed fibre mesh 150 mm wide at corners, upstands, drains and pipe penetrations in the first coat.",,Mesh fully embedded – no exposed fibres
+All,All,2,Detailing,"Turn waterproofing up 300 mm on parapets / walls (150 mm in bathrooms) and terminate in a groove.",,Upstands ≥ 300 / 150 mm
+All,All,3,Detailing,"Seal around rainwater outlets and pipes with a collar of mesh + extra coat.",,All outlets detailed
+All,Acrylic,1,Curing,"Allow to air-dry. Protect from rain for 24 h; full cure in ~7 days.",7 days,No rain within 24 h
+All,Cementitious,1,Curing,"Moist-cure by light water spray / wet hessian for 3 days; avoid direct sun.",3 days,Curing log maintained
+All,PU,1,Curing,"Allow to cure undisturbed; no foot traffic for 24 h; full cure in ~7 days.",7 days,No traffic for 24 h
+All,Bitumen/SBS,1,Curing,"No curing needed; protect membrane from UV and traffic until the protection layer is placed.",,Membrane protected
+All,HDPE,1,Curing,"No curing needed; protect from UV beyond 30 days and from site traffic.",,Exposure < 30 days
+Terrace / roof,All,1,Testing,"48-hour flood / ponding test with 50 mm of water after full cure; check soffit for damp patches.",48 h,Ponding test passed – no damp below
+Podium / deck,All,1,Testing,"48-hour ponding test before placing protection screed; check soffit.",48 h,Ponding test passed
+Bathroom / toilet,All,1,Testing,"48-hour ponding test with 25–50 mm water; check ceiling below before tiling.",48 h,Ponding test passed before tiling
+Other wet areas,All,1,Testing,"48-hour ponding test; inspect the slab underside and adjoining walls.",48 h,Ponding test passed
+Water tank,All,1,Testing,"Fill tank to full level for 7 days after curing; mark and check water level daily.",7 days,No level drop / outside damp
+Swimming pool,All,1,Testing,"Fill pool in stages over 7 days; monitor level and balancing tank before tiling.",7 days,Level stable
+External wall,All,1,Testing,"Visual inspection + cross-cut adhesion check on a test patch; water-spray test on a sample bay.",,Adhesion and visual check passed
+Basement,All,1,Testing,"Visual inspection of every lap and penetration; spark / vacuum test on suspicious areas (illustrative).",,All laps inspected and signed
+Foundation / raft,All,1,Testing,"Visual inspection of laps and terminations before rebar placement; record photos.",,Pre-pour inspection signed
+Retaining wall,All,1,Testing,"Visual inspection of laps; check drainage board outlets before backfill.",,Pre-backfill inspection signed
+Expansion joints & cracks,All,1,Testing,"Visual check; water-spray test across the joint after full cure.",,No seepage across joint
+All,All,1,Protection,"Place the protection layer (screed / board / tiles) as specified without damaging the waterproofing.",,Protection layer in place – no punctures
+All,All,1,Handover,"Clean the area, remove debris and hand over with a signed test report.",,Test report signed
+All,All,2,Handover,"Issue as-built photos, batch numbers of materials used and warranty documentation.",,Batch numbers + photos filed
+All,All,3,Handover,"Brief the owner / facility team on dos and don'ts (no drilling, keep outlets clean).",,Owner briefing done

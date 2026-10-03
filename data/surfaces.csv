@@ -1,0 +1,12 @@
+surface,icon,description,needs_pressure,needs_crack_check
+Terrace / roof,🏠,"Exposed roofs and terraces – UV, ponding, thermal movement.",False,True
+Podium / deck,🅿️,"Landscaped podiums, decks over occupied space.",False,True
+Basement,🏢,"Below-grade walls and slabs against soil and groundwater.",True,False
+Foundation / raft,⛏️,"Raft and footing protection before concreting.",True,False
+Retaining wall,🪨,"Earth-retaining walls with soil and water contact.",True,True
+Water tank,🚰,"Overhead and underground drinking-water tanks.",True,True
+Swimming pool,🏊,"Pool shells and balancing tanks under immersion.",True,True
+Bathroom / toilet,🚿,"Toilets, shower areas, sunken bathrooms.",False,True
+Other wet areas,🍳,"Kitchen, balcony, sunken slab, utility.",False,True
+External wall,🏙️,"Facades exposed to driving rain and sun.",False,True
+Expansion joints & cracks,〰️,"Movement joints, construction joints, live cracks.",False,True

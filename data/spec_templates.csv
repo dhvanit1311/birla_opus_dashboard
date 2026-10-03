@@ -1,0 +1,23 @@
+template_type,text_with_placeholders
+standard,"SPECIFICATION – WATERPROOFING OF {surface_upper}
+
+Item: Providing and applying {system_name} on {surface} of the {segment} project, approx. {area} sq ft, in accordance with the manufacturer's method statement.
+
+System build-up (bottom to top):
+{layers}
+
+Coverage / consumption: {coverage}
+Surface preparation: Remove dust, laitance and loose material; treat cracks as per crack map; form coving at internal corners.
+Testing: {testing}
+Standards / references: {standards}
+Warranty: {warranty} years system warranty (sample, subject to terms) on completion of a signed test report.
+Measurement: Per sq ft of plan area treated; upstands measured separately.
+Make: Birla Opus Prime or approved equivalent with equal or better performance. (Illustrative clause – prototype.)"
+cpwd,"CPWD-STYLE ITEM DESCRIPTION
+
+Item No. WP-{item_no}: Providing and laying waterproofing treatment to {surface} using {system_name}, consisting of {layers_inline}, including surface preparation, crack treatment, fibre mesh at junctions, curing and 48-hour ponding test where applicable, all complete as per specifications and direction of Engineer-in-Charge.
+
+Unit: sq m (approx. {area_sqm} sq m)
+Reference standards: {standards}
+IS clause: Material and workmanship to conform to relevant IS codes (IS 2645 / IS 3067 / IS 15489 as applicable) and CPWD Specifications Vol. II, waterproofing section. (Illustrative.)
+Guarantee: {warranty} years (sample) on non-judicial stamp paper as per CPWD format."
